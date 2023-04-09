@@ -16,7 +16,7 @@
 </body>
 
 ## Pertanyaan & Tugas
-- Implementasikan konsep modularisasi pada kode program pada praktukum sebelumnya dengan menggunakan class library untuk **form** dan **database** connection.
+- Implementasikan konsep modularisasi pada kode program pada praktikum sebelumnya dengan menggunakan class library untuk **form** dan **database** connection.
 
 ## Beginning
 - Pertama siapkan Text Editor semisal VSC, SublimeText. ```(Up to You)```
